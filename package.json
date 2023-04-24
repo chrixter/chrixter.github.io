@@ -1,0 +1,12 @@
+{
+  "name": "particular",
+  "version": "0.1.0",
+  "files": [
+    "particular_bg.wasm",
+    "particular.js"
+  ],
+  "module": "particular.js",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
